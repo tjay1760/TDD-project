@@ -7,5 +7,7 @@ class Solver
       end
       factorial # Return the factorial value
     end
+   
+end
   end
   
