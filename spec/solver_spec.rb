@@ -28,11 +28,11 @@ describe Solver do
     end
   end
   describe '#reverse' do
-    it 'should reverse the string 'hello'' do
+    it 'should reverse the string hello' do
       expect(@solver.reversestring('hello')).to eq('olleh')
     end
 
-    it 'should reverse the string 'world'' do
+    it 'should reverse the string world' do
       expect(@solver.reversestring('world')).to eq('dlrow')
     end
 
