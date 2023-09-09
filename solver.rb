@@ -8,6 +8,5 @@ class Solver
       factorial # Return the factorial value
     end
    
-end
   end
   
